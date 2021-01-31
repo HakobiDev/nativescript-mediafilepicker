@@ -73,8 +73,8 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="@string/vw_confirm"
-            android:textColor="@android:color/white"
-            android:textSize="16sp" />
+            android:textColor="#2879fe"
+            android:textSize="20sp" />
     </RelativeLayout>
 
     <RelativeLayout
